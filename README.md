@@ -1,4 +1,5 @@
 # Best sites for plugins & hacked clients leaks
+* [GLeaks](https://gleaks.pro/)
 * [WizardHAX](https://www.wizardhax.com/)
 * [MinecraftHAX](https://minecrafthax.org/)
 * [Hovac](https://go.hovac.lol/)
